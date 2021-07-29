@@ -1,2 +1,2 @@
 # bootstrap-layout
-Great repository names are short and memorable. Need inspiration? How about curly-meme? 
+ https://arpasaha-as.github.io/bootstrap-layout/
